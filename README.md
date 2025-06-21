@@ -124,7 +124,7 @@ Each trader has access to:
 └── README.md            # This file
 ```
 
-## 🤝 Contributing
+## 🤝 Contributing 
 
 1. Fork the repository
 2. Create a feature branch
@@ -137,4 +137,4 @@ This project is licensed under the MIT License.
 
 ## ⚠️ Disclaimer
 
-This is a simulation for educational and research purposes. It does not involve real money trading. Always do your own research before making actual investment decisions. 
+This is a simulation for educational and research purposes. It does not involve real money trading. Always do your own research before making actual investment decisions.
