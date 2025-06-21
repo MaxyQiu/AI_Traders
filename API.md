@@ -1,8 +1,8 @@
-# AI Trading Simulation - API Documentation
+# AI Traders - API Documentation
 
 ## Overview
 
-The AI Trading Simulation provides a comprehensive API for managing AI-powered trading agents, monitoring portfolios, and executing trades. The system consists of multiple components that work together to create a realistic trading environment.
+The AI Traders provides a comprehensive API for managing AI-powered trading agents, monitoring portfolios, and executing trades. The system consists of multiple components that work together to create a realistic trading environment.
 
 ## Table of Contents
 
