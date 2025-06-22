@@ -1,6 +1,6 @@
-# AI Trading Simulation
+# AI Traders
 
-A sophisticated AI-powered stock trading simulation where multiple AI agents compete in the stock market using different strategies and AI models.
+A sophisticated AI-powered stock trading simulation where the AI decisions are made through MCP and crew AI.
 
 ## 🚀 Features
 
@@ -39,15 +39,9 @@ A sophisticated AI-powered stock trading simulation where multiple AI agents com
 1. **Clone the repository**
    ```bash
    git clone <your-repo-url>
-   cd ai-trading-simulation
    ```
 
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Set up environment variables**
+2. **Set up environment variables**
    ```bash
    cp env.example .env
    # Edit .env with your API keys
@@ -68,7 +62,7 @@ This starts the AI traders who will make trading decisions every 60 minutes.
 
 ### Launch the Web Dashboard
 ```bash
-python app.py
+uv app.py
 ```
 This opens a web interface at `http://localhost:7860` to monitor the traders.
 
