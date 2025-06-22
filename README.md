@@ -56,7 +56,7 @@ A sophisticated AI-powered stock trading simulation where the AI decisions are m
 
 ### Start the Trading Engine
 ```bash
-python trading_floor.py
+uv trading_floor.py
 ```
 This starts the AI traders who will make trading decisions every 60 minutes.
 
